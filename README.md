@@ -158,3 +158,7 @@ jupyter notebook Task_4_Linear_Programming_Optimization.ipynb
 - Add **automated input form** for custom constraints/objectives.
 
 ---
+
+#Output:
+
+<img width="1919" height="751" alt="Image" src="https://github.com/user-attachments/assets/014463c9-03d0-44ef-827e-cd8fccf7efd8" />
